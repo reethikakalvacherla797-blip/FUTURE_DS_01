@@ -81,13 +81,13 @@ SUM(Profit) / SUM(Sales) → Profit Margin %
 
 ## 📌 Key Insights
 
-Technology category contributes the highest share of total revenue.
+1.Technology category contributes the highest share of total revenue.
 
-Sales show a strong upward trend in Q4, indicating seasonal demand spikes.
+2.Sales show a strong upward trend in Q4, indicating seasonal demand spikes.
 
-The East region generates the highest sales contribution among all regions.
+3.The East region generates the highest sales contribution among all regions.
 
-Revenue distribution follows the Pareto principle, where a limited number of products drive a significant portion of total sales.
+4.Revenue distribution follows the Pareto principle, where a limited number of products drive a significant portion of total sales.
 
-The overall profit margin of 12.47% suggests moderate profitability, with improvement opportunities in lower-performing categories such as Furniture.
+5.The overall profit margin of 12.47% suggests moderate profitability, with improvement opportunities in lower-performing categories such as Furniture.
 
