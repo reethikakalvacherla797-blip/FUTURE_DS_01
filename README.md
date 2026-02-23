@@ -1,7 +1,5 @@
 ## FUTURE_DS_01
----
 ## Data Science & Analytics Internship – Future Interns
----
 ## 📊TASk-1 Business Sales Performance Dashboard
 
 ---
